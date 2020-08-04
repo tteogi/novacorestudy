@@ -1,0 +1,16 @@
+﻿[
+  {
+    "Name": "LongBow",
+    "Type": "Bow",
+    "MinAttack": 40,
+    "MaxAttack": 110,
+    "Distance": 100
+  },
+  {
+    "Name": "ShortMagicBow",
+    "Type": "MagicBow",
+    "MinAttack": 20,
+    "MaxAttack": 130,
+    "Distance": 10
+  }
+]

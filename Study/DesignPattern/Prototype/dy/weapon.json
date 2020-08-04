@@ -1,0 +1,22 @@
+﻿[
+  {
+    "Name": "LightningBow",
+    "Parent": "ShortMagicBow",
+    "Spell": "Lightning"
+  },
+  {
+    "Name": "FireBow",
+    "Parent": "ShortMagicBow",
+    "Spell": "Fire"
+  },
+  {
+    "Name": "WoodBow",
+    "Parent": "LongBow",
+    "MinAttack": 100
+  },
+  {
+    "Name": "GoldBow",
+    "Parent": "LongBow",
+    "MaxAttack": 100
+  }
+]
